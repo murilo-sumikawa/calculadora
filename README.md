@@ -10,3 +10,4 @@ explicação de estrutura:
 execução: rodar o codigo e utilizar como uma calculadora
 
 imagem: 
+<img width="653" height="638" alt="image" src="https://github.com/user-attachments/assets/d1350c58-f924-4ab7-a6cc-7228c63ce5d4" />
