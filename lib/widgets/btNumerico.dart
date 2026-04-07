@@ -14,7 +14,7 @@ class BtNumerico extends StatelessWidget {
         child: SizedBox.expand(
           child: ElevatedButton(
             style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.blue,
+              backgroundColor: Colors.white,
               foregroundColor: Colors.black,
               padding: EdgeInsets.zero,
               minimumSize: Size.zero,
