@@ -7,7 +7,7 @@ explicação de estrutura:
 - btNumerico: componente reutilizavel para os botões com numero, recebe texto e estilo e executa função ao clicar
 - btOperacao: igual ao btNumerico mas com os botões de operações
   
-execução: rodar o codigo e utilizar como uma calculadora
+execução: rodar o codigo com "flutter run" e utilizar como uma calculadora
 
 imagem: 
 <img width="653" height="638" alt="image" src="https://github.com/user-attachments/assets/d1350c58-f924-4ab7-a6cc-7228c63ce5d4" />
