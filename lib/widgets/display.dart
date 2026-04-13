@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Display extends StatelessWidget {
+// mostra o valor atual no visor
+class Tela extends StatelessWidget {
   final String valor;
 
-  const Display({super.key, required this.valor});
+  const Tela({super.key, required this.valor});
 
   @override
   Widget build(BuildContext context) {

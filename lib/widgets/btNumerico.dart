@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 
-class BtNumerico extends StatelessWidget {
+// botao usado para os numeros
+class BotaoNumero extends StatelessWidget {
   final String texto;
-  final Function(String) onClick;
+  final ValueChanged<String> onClick;
 
-  const BtNumerico({super.key, required this.texto, required this.onClick});
+  const BotaoNumero({super.key, required this.texto, required this.onClick});
 
   @override
   Widget build(BuildContext context) {

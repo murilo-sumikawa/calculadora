@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 
-class BtOperacao extends StatelessWidget {
+// botao usado para as acoes
+class BotaoAcao extends StatelessWidget {
   final String texto;
-  final Function(String) onClick;
+  final ValueChanged<String> onClick;
 
-  const BtOperacao({super.key, required this.texto, required this.onClick});
+  const BotaoAcao({super.key, required this.texto, required this.onClick});
 
   @override
   Widget build(BuildContext context) {
