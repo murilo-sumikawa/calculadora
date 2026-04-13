@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../widgets/btNumerico.dart';
 import '../widgets/btOperacao.dart';
 
-// monta a grade de botoes da calculadora
+// monta a grade de botões da calculadora
 class Teclado extends StatelessWidget {
   final ValueChanged<String> onNumero;
   final ValueChanged<String> onAcao;

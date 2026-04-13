@@ -31,7 +31,7 @@ class Controller {
     _mostrarConta();
   }
 
-  // adiciona ou troca a acao atual
+  // adiciona ou troca a ação atual
   void addAcao(String acao) {
     if (conta.isEmpty) {
       return;
